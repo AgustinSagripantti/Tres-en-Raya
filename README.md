@@ -25,18 +25,6 @@ Sigue estos pasos para ejecutar el proyecto localmente:
    ```bash
    npm run dev
 
-## Estructura del Proyecto
-calculadora/
-    ├── public/
-    ├── src/
-    │   └── componentes/
-    │   └── index.css
-    │   └── index.jsx
-    ├── .gitignore
-    ├── index.html
-    ├── package.json
-    └── README.md
-
 ## Contribuciones
 Las contribuciones son bienvenidas. Siéntase libre de abrir un issue o enviar un pull request.
 
