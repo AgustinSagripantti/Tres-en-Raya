@@ -1,8 +1,44 @@
-# React + Vite
+# Tres en Raya
+Este es un proyecto basado en el juego de Tres en Raya (Tic Tac Toe). El objetivo del juego es alinear tres de tus marcas en una fila, columna o diagonal antes que tu oponente.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Características
+- Juego de Tres en Raya para dos jugadores.
+- Posibilidad de reiniciar el juego para volver a jugar.
+- Posibilidad de retomar una partida empezada.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
+- **React**: Utilizado para crear componentes de interfaz de usuario interactivos.
+- **HTML**: Estructura básica de la aplicación.
+- **CSS**: Estilos para el diseño y la presentación del juego.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+Sigue estos pasos para ejecutar el proyecto localmente:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/AgustinSagripantti/Tres-en-Raya
+   cd tres-en-raya
+2. Instala las dependencias:
+   ```bash
+   npm install
+3. Ejecuta la aplicacion:
+   ```bash
+   npm run dev
+
+## Estructura del Proyecto
+calculadora/
+    ├── public/
+    ├── src/
+    │   └── componentes/
+    │   └── index.css
+    │   └── index.jsx
+    ├── .gitignore
+    ├── index.html
+    ├── package.json
+    └── README.md
+
+## Contribuciones
+Las contribuciones son bienvenidas. Siéntase libre de abrir un issue o enviar un pull request.
+
+## Contacto
+Agustin Sagripantti - asagripantti@gmail.com
